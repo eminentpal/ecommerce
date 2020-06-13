@@ -71,6 +71,10 @@ nav ul li {
     color: #2d2a2a;
 }
 
+ul a:hover{
+    color: lime;
+ }
+
 .text-container p:nth-child(1) {
     font-family: 'Lato', sans-serif;
           font-weight: bold;

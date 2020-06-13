@@ -727,6 +727,7 @@ footer p:nth-child(2){
   
   footer p:nth-child(2) {
      width: 90%;
+     font-size: 10px;
   }
    
 

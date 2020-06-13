@@ -45,6 +45,9 @@ nav ul {
 
 }
 
+.toggle {
+    display: none;
+
 nav ul li {
     margin: 30px;
     font-family: 'Lato', sans-serif;
@@ -614,6 +617,8 @@ footer p:nth-child(2){
         display: none;
     }
     
+    .toggle {
+    display: block;
     
     .text-container p:nth-child(2){
         line-height: 40px;
